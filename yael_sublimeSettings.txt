@@ -1,0 +1,22 @@
+Sublime Settings 
+for Yael Brown
+
+{
+  "color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+  "detect_indentation": false,
+  "draw_white_space": "all",
+  "font_face": "Menlo",
+  "font_size": 10,
+  "ignored_packages":
+  [
+  ],
+  "tab_size": 2,
+  "theme": "Adaptive.sublime-theme",
+  "translate_tabs_to_spaces": true
+}
+
+sudo apt-get install gnome-tweak-tool
+
+
+Opens Audio mixer, can boost microphone
+  alsamixer 
