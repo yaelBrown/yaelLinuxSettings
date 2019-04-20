@@ -15,8 +15,20 @@ for Yael Brown
   "translate_tabs_to_spaces": true
 }
 
+sudo apt-get install 
+sudo apt-get install vifm
+sudo apt-get install virtualbox
+sudo apt-get install chrome
+sudo apt-get install gitkraken
+sudo apt-get install vscode
+sudo apt-get install notepad3
+sudo apt-get install vlcplayer
+sudo apt-get install discord
+sudo apt-get install filezilla
 sudo apt-get install gnome-tweak-tool
-
+sudo add-apt-repository ppa:mamarley/quassel
+sudo apt-get update
+sudo apt-get install quassel
 
 Opens Audio mixer, can boost microphone
   alsamixer 
