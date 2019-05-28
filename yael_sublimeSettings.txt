@@ -1,4 +1,4 @@
-Sublime Settings 
+Sublime Settings
 for Yael Brown
 
 {
@@ -15,7 +15,7 @@ for Yael Brown
   "translate_tabs_to_spaces": true
 }
 
-sudo apt-get install 
+sudo apt-get install
 sudo apt-get install vifm
 sudo apt-get install virtualbox
 sudo apt-get install chrome
@@ -31,4 +31,14 @@ sudo apt-get update
 sudo apt-get install quassel
 
 Opens Audio mixer, can boost microphone
-  alsamixer 
+  alsamixer
+
+
+Sublime Settings
+
+{
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	"font_face": "Menlo",
+	"font_size": 10,
+	"draw_white_space": "all"
+}
