@@ -40,5 +40,7 @@ Sublime Settings
 	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
 	"font_face": "Menlo",
 	"font_size": 10,
-	"draw_white_space": "all"
+	"draw_white_space": "all",
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
 }
