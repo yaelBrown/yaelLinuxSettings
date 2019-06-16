@@ -30,6 +30,9 @@ sudo add-apt-repository ppa:mamarley/quassel
 sudo apt-get update
 sudo apt-get install quassel
 
+sudo pip install awscli
+
+
 Opens Audio mixer, can boost microphone
   alsamixer
 
