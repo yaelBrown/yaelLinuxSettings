@@ -15,7 +15,7 @@ for Yael Brown
   "translate_tabs_to_spaces": true
 }
 
-sudo apt-get install
+sudo apt-get update
 sudo apt-get install vifm
 sudo apt-get install virtualbox
 sudo apt-get install chrome
@@ -26,6 +26,8 @@ sudo apt-get install vlcplayer
 sudo apt-get install discord
 sudo apt-get install filezilla
 sudo apt-get install gnome-tweak-tool
+sudo apt-get install mysql
+sudo apt-get install mongodb
 sudo add-apt-repository ppa:mamarley/quassel
 sudo apt-get update
 sudo apt-get install quassel
@@ -47,3 +49,13 @@ Sublime Settings
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true
 }
+
+
+Add git bash to terminal of windows vscode 
+
+File > Preferences > Settings
+
+   in settings.json add: 
+
+   "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\git-bash.exe"     // Location of git bash
+
