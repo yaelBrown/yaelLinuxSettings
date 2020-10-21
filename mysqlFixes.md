@@ -1,0 +1,6 @@
+Add mysql to path
+  export PATH=${PATH}:/usr/local/mysql/bin
+
+
+Change root password
+  UPDATE mysql.user SET authentication_string="password" WHERE User='root';
