@@ -9,5 +9,8 @@ echo "alias gs='git status'" >> ~/.bash_profile
 echo "alias ga='git add .'" >> ~/.bash_profile
 echo "alias gp='git push'" >> ~/.bash_profile
 echo "alias x=exit" >> ~/.bash_profile
+echo "alias cg='cd /home/yael/Projz/CG_Grader/cggrader && npm run start'" >> ~/.bash_profile
+echo "alias p='cd ~/Projz'" >> ~/.bash_profile
+echo "alias g='cd ~/Gradez'" >> ~/.bash_profile
 
 source ~/.bash_profile >> ~/.bashrc
