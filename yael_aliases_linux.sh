@@ -10,3 +10,4 @@ echo "alias ga='git add .'" >> ~/.bash_profile
 echo "alias gp='git push'" >> ~/.bash_profile
 echo "alias x=exit" >> ~/.bash_profile
 
+source ~/.bash_profile >> ~/.bashrc
